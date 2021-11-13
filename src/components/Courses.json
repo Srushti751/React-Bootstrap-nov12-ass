@@ -1,0 +1,26 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "course": "Science",
+      "image": "images/science.jpg",
+      "desc": "Department of Science and Technology (India) supports open access to scientific knowledge, originated from the public-funded research in India. In December 2014, the DST and the Department of Biotechnology (DBT), Government of India had jointly adopted their Open Access Policy."
+     
+    },
+    {
+      "id": 2,
+      "course": "Commerce",
+      "image": "images/commerce.jpg",
+      "desc": "The Department of Commerce promotes job creation and economic growth by ensuring fair trade, providing the data necessary to support commerce and constitutional democracy, and fostering innovation by setting standards and conducting foundational research and development. "
+     
+    },
+    {
+        "id": 3,
+        "course": "Arts",
+        "image": "images/arts.jpg",
+        "desc": "Art department in filmmaking terms means the section of a production's crew concerned with visual artistry. Working under the supervision of the production designer and/or art director, the art department is responsible for arranging the overall look of the film (i.e. modern/high-tech, rustic, Victorian, etc.) as desired by the film dt "
+       
+      }
+    
+  ]
+}

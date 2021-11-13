@@ -1,0 +1,37 @@
+{
+  "courses": [
+    {
+      "science": {
+        "name": "sudeep",
+        "ssc": "60",
+        "category": "open"
+      },
+      "id": 1
+    },
+    {
+      "science": {
+        "name": "Harshada Menge",
+        "ssc": "80",
+        "category": "OBC"
+      },
+      "id": 2
+    },
+    {
+      "arts": {
+        "name": "molly dol",
+        "ssc": "70",
+        "category": "obc"
+      },
+      "id": 3
+    },
+    {
+      "science": {
+        "name": "Shaun N",
+        "ssc": "60",
+        "category": "Open",
+        "enquiry": "What is the fee Structure of this department"
+      },
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+    "products":[
+        {
+            "id":1,
+            "pname":"mobile",
+            "prod":1000,
+            "quantity":1,
+            "image":"images/i1.jpg"
+        },
+        {
+            "id":2,
+            "pname":"Fan",
+            "prod":500,
+            "quantity":1,
+            "image":"images/i2.jpg"
+
+        },
+        {
+            "id":3,
+            "pname":"Fridge",
+            "prod":1000,
+            "quantity":1,
+            "image":"images/i3.jpg"
+
+        },
+        {
+            "id":4,
+            "pname":"shoes",
+            "prod":2000,
+            "quantity":1,
+            "image":"images/i4.jpg"
+
+        },
+        {
+            "id":5,
+            "pname":"Shirt",
+            "prod":1000,
+            "quantity":1,
+            "image":"images/i5.jpg"
+
+        },
+        {
+            "id":6,
+            "pname":"TV",
+            "prod":1000,
+            "quantity":1,
+            "image":"images/i6.jpg"
+
+        },
+        {
+            "id":7,
+            "pname":"Jeans",
+            "prod":1000,
+            "quantity":1,
+            "image":"images/i7.jpg"
+
+        },
+        {
+            "id":8,
+            "pname":"Heels",
+            "prod":700,
+            "quantity":1,
+            "image":"images/i8.jpg"
+
+        },
+        {
+            "id":9,
+            "pname":"Earphones",
+            "prod":1200,
+            "quantity":1,
+            "image":"images/i9.png"
+
+        }
+  
+    ]
+}
+
